@@ -85,14 +85,14 @@
             "name": "Object Field",
             "scope": "support.type.property-name.json,entity.other.attribute-name,meta.object-literal.key,variable.other.property,variable.other.object.property,variable.other.constant.property.js,variable.other.constant.object.property.js,support.variable.property.dom.js,variable.object.property",
             "settings": {
-                "foreground": "#009900"
+                "foreground": "#9F0D79"
             }
         },
         {
             "name": "String",
             "scope": "string,punctuation.definition.string.begin.js,punctuation.definition.string.end.js,string.quoted.single.js,string.quoted.double.js",
             "settings": {
-                "foreground": "#CE7B00"
+                "foreground": "#1E9347"
             }
         },
         {
@@ -189,6 +189,43 @@
             "scope": "token.debug-token",
             "settings": {
                 "foreground": "#800080"
+            }
+        },
+        {
+            "name": "PHP Bold Tags",
+            "scope": [
+                "punctuation.section.embedded.begin.php",
+                "punctuation.section.embedded.end.php"
+            ],
+            "settings": {
+                "fontStyle": "bold",
+            }
+        },
+        {
+            "name": "PHP Function Color",
+            "scope": [
+                "entity.name.function.php"
+            ],
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "PHP Variable Color",
+            "scope": [
+                "variable.other.php",
+            ],
+            "settings": {
+                "foreground": "#6D3206"
+            }
+        },
+        {
+            "name": "HTML Attributes Color",
+            "scope": [
+                "entity.other.attribute-name"
+            ],
+            "settings": {
+                "foreground": "#CE54B8"
             }
         }
     ]
