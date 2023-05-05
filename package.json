@@ -2,7 +2,7 @@
     "name": "netbeans-light-theme",
     "displayName": "NetBeans Light Theme",
     "description": "Default light theme used in NetBeans IDE.",
-    "version": "1.0",
+    "version": "2.0.2",
     "publisher": "higorhgoncalves",
     "homepage": "https://github.com/higorhgoncalves/vscode-netbeans-light-theme-php",
     "license": "See license in LICENSE file.",
