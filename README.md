@@ -8,6 +8,7 @@ Currently supported languages:
 - HTML
 - CSS
 - Java
+- PHP
 
 ![VSCode NetBeans Light Theme](./images/vscode-netbeans-light-theme.png)
 
