@@ -2,9 +2,9 @@
     "name": "netbeans-light-theme",
     "displayName": "NetBeans Light Theme",
     "description": "Default light theme used in NetBeans IDE.",
-    "version": "2.0.2",
-    "publisher": "obrejla",
-    "homepage": "https://github.com/obrejla/vscode-netbeans-light-theme",
+    "version": "1.0",
+    "publisher": "higorhgoncalves",
+    "homepage": "https://github.com/higorhgoncalves/vscode-netbeans-light-theme-php",
     "license": "See license in LICENSE file.",
     "icon": "images/nb-icon.png",
     "galleryBanner": {
@@ -13,10 +13,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/obrejla/vscode-netbeans-light-theme.git"
+        "url": "https://github.com/higorhgoncalves/vscode-netbeans-light-theme-php.git"
     },
     "bugs": {
-        "url": "https://github.com/obrejla/vscode-netbeans-light-theme/issues"
+        "url": "https://github.com/higorhgoncalves/vscode-netbeans-light-theme-php/issues"
     },
     "engines": {
         "vscode": "^1.10.0"
@@ -28,7 +28,8 @@
         "netbeans",
         "vscode",
         "theme",
-        "light"
+        "light",
+        "php"
     ],
     "contributes": {
         "themes": [
