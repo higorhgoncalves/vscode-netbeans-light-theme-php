@@ -118,7 +118,7 @@
         },
         {
             "name": "Identifier",
-            "scope": "variable,meta.function-call.ts entity.name.function.ts,meta.function-call.js entity.name.function.js,support.function,support.variable.property.js,storage.modifier.import,storage.modifier.package,storage.type.annotation,storage.type.generic,storage.type.object.array,storage.type.java",
+            "scope": "variable,meta.function-call.ts entity.name.function.ts,meta.function-call.js entity.name.function.js,support.variable.property.js,storage.modifier.import,storage.modifier.package,storage.type.annotation,storage.type.generic,storage.type.object.array,storage.type.java",
             "settings": {
                 "foreground": "#000000",
                 "fontStyle": "plain"
