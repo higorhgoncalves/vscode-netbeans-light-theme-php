@@ -48,8 +48,8 @@
             "name": "Constant Other",
             "scope": "constant.other",
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#009900"
+                "fontStyle": "",
+                "foreground": "#000000"
             }
         },
         {
@@ -76,9 +76,9 @@
         },
         {
             "name": "Keywords",
-            "scope": "keyword,storage,constant.language,entity.name.tag,punctuation.definition.tagstorage.type.function.js,storage.type.js,variable.language.this,variable.language.java,variable.language.super.ts,keyword.control,keyword.operator.new,keyword.operator.expression.typeof.js,keyword.operator.expression.delete.js,keyword.operator.expression.instanceof.js,keyword.other.import,keyword.other.import.static,keyword.other.package,support.type.primitive.ts",
+            "scope": "keyword,storage,constant.language,entity.name.tag,punctuation.definition.tagstorage.type.function.js,storage.type.js,variable.language.this,variable.language.java,variable.language.super.ts,keyword.control,keyword.operator.new,keyword.operator.expression.typeof.js,keyword.operator.expression.delete.js,keyword.operator.expression.instanceof.js,keyword.other.import,keyword.other.import.static,keyword.other.package,support.type.primitive.ts,support.function",
             "settings": {
-                "foreground": "#0000E6"
+                "foreground": "#336BDD"
             }
         },
         {
@@ -220,12 +220,12 @@
             }
         },
         {
-            "name": "HTML Attributes Color",
+            "name": "HTML Entities",
             "scope": [
-                "entity.other.attribute-name"
+                "constant.character.entity",
             ],
             "settings": {
-                "foreground": "#CE54B8"
+                "fontStyle": "bold",
             }
         }
     ]
