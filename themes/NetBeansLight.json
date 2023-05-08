@@ -213,7 +213,7 @@
         {
             "name": "PHP Variable Color",
             "scope": [
-                "variable.other.php",
+                "variable.other,variable.other.php",
             ],
             "settings": {
                 "foreground": "#6D3206"
