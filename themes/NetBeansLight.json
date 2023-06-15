@@ -220,6 +220,13 @@
             }
         },
         {
+            "name": "SQL Comands on PHP",
+            "scope": "keyword.other.DML.sql",
+            "settings": {
+                "foreground": "#1E9347"
+            }
+        },
+        {
             "name": "HTML Entities",
             "scope": [
                 "constant.character.entity",
