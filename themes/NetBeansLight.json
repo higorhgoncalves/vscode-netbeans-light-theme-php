@@ -198,7 +198,7 @@
                 "punctuation.section.embedded.end.php"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "bold"
             }
         },
         {
@@ -213,7 +213,7 @@
         {
             "name": "PHP Variable Color",
             "scope": [
-                "variable.other",
+                "variable.other"
             ],
             "settings": {
                 "foreground": "#6D3206"
@@ -221,7 +221,7 @@
         },
         {
             "name": "SQL Comands on PHP",
-            "scope": "keyword.other.DML.sql",
+            "scope": "keyword.other.DML.sql,keyword.other.sql,constant.other.database-name.sql,constant.other.table-name.sql,keyword.operator.comparison.sql",
             "settings": {
                 "foreground": "#1E9347"
             }
@@ -229,10 +229,10 @@
         {
             "name": "HTML Entities",
             "scope": [
-                "constant.character.entity",
+                "constant.character.entity"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "bold"
             }
         }
     ]
