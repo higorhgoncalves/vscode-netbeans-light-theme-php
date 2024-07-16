@@ -20,7 +20,7 @@ Feel free to file your change requests and issues to [issue tracker](https://git
 
 Make sure you have Node.js installed. Then run:
 
-´´´
+```
 npm install -g @vscode/vsce
 
 $ cd myExtension
@@ -28,4 +28,4 @@ $ vsce package
 # myExtension.vsix generated
 $ vsce publish
 # <publisher id>.myExtension published to VS Code Marketplace
-´´´
+```
