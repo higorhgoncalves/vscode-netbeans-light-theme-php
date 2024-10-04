@@ -1,6 +1,6 @@
 {
-    "name": "netbeans-light-theme",
-    "displayName": "NetBeans Light Theme",
+    "name": "netbeans-light-theme-php",
+    "displayName": "NetBeans Light Theme PHP",
     "description": "Default light theme used in NetBeans IDE.",
     "version": "1.0.0",
     "publisher": "higorhgoncalves",
